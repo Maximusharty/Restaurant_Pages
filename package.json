@@ -1,0 +1,26 @@
+{
+  "name": "Restaurant_Page",
+  "version": "1.0.0",
+  "description": "This is a project to manipulate DOM only using javascript",
+  "private":true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack",
+    "watch":"webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximusharty/Restaurant_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maximusharty/Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/Maximusharty/Restaurant_Page#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
